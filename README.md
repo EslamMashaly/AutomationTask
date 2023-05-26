@@ -2,7 +2,7 @@
 ### 🌐Website: https://phptravels.net/signup
 
 ### Description:
-* The project uses Selenium with Java, Maven, TestNG
+* The project uses Selenium with Java, Maven and TestNG
 * Tests registration process and login verification
 * Designed with Page Object Model (POM) and fluent design
 * DDT (reading data from an Excel file)
@@ -18,7 +18,7 @@
 * **TestDataFiles**: contain Excel file for test data and the data reader class
 * **The E2E test**
 
-### How it works:
+# How it works:
 ## The project uses data from Excel sheet to run six test cases:
 * First one to validate first name
 * Second one to validate last name
